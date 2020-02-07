@@ -1,3 +1,5 @@
+// Type Basics
+
 // function works fine with inputs of type number but
 // behaves unexpectedly when passed a string.
 // can fix issue by adding types
